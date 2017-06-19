@@ -1,2 +1,2 @@
-# myPortfolio
-Portfolio site
+# portfolioSite
+Site for my personal portfolio
